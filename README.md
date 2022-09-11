@@ -4,3 +4,6 @@ Multiuser To-Do List, where multiple users can create to-dos in one single Appli
 - have a login screen for the users (Log in/Logout)
 - User should be able to add an item to the to-do list if he had added that item. He should be able to mark that as completed,
   or else it would be only viewed, and he cannot mark it as completed. 
+
+
+![ScreenShot](https://github.com/VidyasagarTure/Multiuser-To-Do-s/blob/master/Todo_Screenshot.gif)
